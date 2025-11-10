@@ -2,7 +2,7 @@
 """
 update_public_channels.py
 -------------------------
-自動抓取合法公開直播流並推送更新到 GitHub。
+自動抓取合法公開直播流（優先選擇高清高碼率）並推送更新到 GitHub。
 """
 
 import os
@@ -33,7 +33,7 @@ def fetch_stream(channel_name, url):
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("--no-sandbox")
     options.add_argument("--window-size=1280,720")
-    options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (HTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
+    options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36")
 
     driver = webdriver.Chrome(options=options)
     driver.get(url)
@@ -44,20 +44,25 @@ def fetch_stream(channel_name, url):
     candidates = []
     for r in driver.requests:
         if r.response and ".m3u8" in r.url:
-            candidates.append(r.url)
-            print(f"[{channel_name}] 🎥 檢測到流: {r.url}")
+            # 過濾高碼率（常見關鍵字：2000000 以上、hd、high）
+            if any(k in r.url for k in ["2000000", "2500000", "3000000", "4000000", "hd", "high"]):
+                candidates.append(r.url)
+                print(f"[{channel_name}] 🎥 檢測到高清流: {r.url}")
+            else:
+                print(f"[{channel_name}] ⚠️ 檢測到低碼率流: {r.url}")
 
     driver.quit()
 
     if candidates:
-        stream_url = candidates[0]
+        # 取最後一個，通常是最高碼率
+        stream_url = candidates[-1]
         output_file = os.path.join(OUTPUT_DIR, f"{channel_name}.m3u")
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(f"#EXTM3U\n#EXTINF:-1,{channel_name}\n{stream_url}\n")
-        print(f"[{channel_name}] ✅ 已保存直播源")
+        print(f"[{channel_name}] ✅ 已保存高清直播源")
         return stream_url
     else:
-        print(f"[{channel_name}] ⚠️ 未检测到直播流")
+        print(f"[{channel_name}] ⚠️ 未检测到高清直播流")
         return None
 
 # ====== 生成總表 ======
@@ -78,7 +83,7 @@ def push_to_github():
     try:
         subprocess.run(["git", "add", "."], check=True)
         subprocess.run(["git", "commit", "-m", f"🕒 Auto update {datetime.now():%Y-%m-%d %H:%M:%S}"], check=False)
-        subprocess.run(["git", "push"], check=True)
+        subprocess.run(["git", "push", "--set-upstream", "origin", "main"], check=False)
         print("🚀 已自動推送到 GitHub")
     except Exception as e:
         print(f"⚠️ Git 推送失敗: {e}")
