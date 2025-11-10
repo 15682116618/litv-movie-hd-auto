@@ -19,6 +19,11 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1,Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTM3U
+
+#EXTM3U
+#EXTINF:-1,Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTM3U
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,台灣龍華頻道
@@ -92,3 +97,22 @@ https://cdi.ofiii.com/ocean/video/playlist/8lsk3SXRlU0/litv-longturn21-avc1_3360
 #EXTM3U
 #EXTINF:-1,龍華電影（高清）
 https://cdi.ofiii.com/ocean/video/playlist/p81v5nvPPGM/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+#EXTM3U
+#EXTINF:-1,Bloomberg Global
+https://dai.google.com/linear/hls/pb/event/K0-OqUmxTweP-DyYhqzcLw/stream/6211dde5-4616-4388-8f4d-9095d3895ed8:SIN/master.m3u8
+#EXTM3U
+#EXTM3U
+#EXTINF:-1,台灣龍華頻道
+https://cdi.ofiii.com/live/litv_donghwa_hd/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,龍華偶像（高清）
+https://cdi.ofiii.com/ocean/video/playlist/EekYbFUK1A8/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+#EXTM3U
+#EXTINF:-1,龍華戲劇（高清）
+https://cdi.ofiii.com/ocean/video/playlist/6TeR-b4-7Xg/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+#EXTM3U
+#EXTINF:-1,龍華經典（高清）
+https://cdi.ofiii.com/ocean/video/playlist/bEpUt6MGKOU/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
+#EXTM3U
+#EXTINF:-1,龍華電影（高清）
+https://cdi.ofiii.com/ocean/video/playlist/LwJYXj6HG1w/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
