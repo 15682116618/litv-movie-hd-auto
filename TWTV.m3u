@@ -236,24 +236,22 @@ https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main
 https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87.m3u
 #EXTINF:-1 tvg-name="龍華偶像" group-title="台灣頻道",龍華偶像
 https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E5%8F%B0%E7%81%A3%E9%A0%BB%E9%81%93/%E9%BE%8D%E8%8F%AF%E5%81%B6%E5%83%8F.m3u
-#EXTINF:-1 group-title="台灣頻道" tvg-name="台灣測試",台灣測試
-http://example.com/live/taiwan.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/Q79Y7VbR4GA/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/AoEEPPqMGmg/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/Q79Y7VbR4GA/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/AoEEPPqMGmg/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/hiY7k7hK-os/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/WrS9UCLU0bc/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/hiY7k7hK-os/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/WrS9UCLU0bc/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/OMk1XElPo84/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/dHtyvxpQ7eA/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/OMk1XElPo84/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/dHtyvxpQ7eA/litv-longturn21-avc1_336000=1-mp4a_140000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/E5DBs_09CVQ/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/aa2xJI65qdA/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/E5DBs_09CVQ/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/aa2xJI65qdA/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
 
 #==================================================
 # 電影頻道
@@ -476,6 +474,10 @@ https://live.catvod.com/live.php?id=hubei&token=cbd3d036e09144c5eb77aeb580226d41
 https://live.catvod.com/live.php?id=sichuan_twn&token=4e9423478b5b3a9a6e57a9a9c729d178896da948eacbdb83e028822480ac0e05%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="CGTN" group-title="其他頻道",CGTN
 https://live.catvod.com/live.php?id=CGTN&token=97fe716e8faa366e82ffa9d3aadd689776bf7f2af778d6c43d6b0dc82f40809e%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
+#EXTINF:-1 tvg-name="广安公共" group-title="其他頻道",广安公共
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+#EXTINF:-1 tvg-name="广安新闻综合频道" group-title="其他頻道",广安新闻综合频道
+https://stream1.freetv.fun/b778266ea65e9ea74520cfcc77f05280df219c2527795ef56452e8f18294db4c.m3u8
 #EXTINF:-1 tvg-name="FIGHTSPORTS" group-title="其他頻道",FIGHTSPORTS
 https://live.catvod.com/live.php?id=Fs&token=e0966b67073e58043f949f4950aa1d48ca1d9f8cfec4806a24527c083d908093%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="TNTSPORTS1" group-title="其他頻道",TNTSPORTS1
@@ -1072,6 +1074,12 @@ https://live.catvod.com/live.php?id=HGTV&token=3b40dbb326ef6e100e0003716bce37099
 https://live.catvod.com/live.php?id=bloomberg_twn&token=b5ceb5987f6b95671ad33fa1c814951b0d75b8c54c48a11f68c6458177d15bad%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="Al-Jazeera" group-title="其他頻道",Al-Jazeera
 https://live.catvod.com/live.php?id=aljazeera_twn&token=5017fd0890e2220172ba4619a75d66e314ed1cabdb011f3031793c909b1365a1%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
+#EXTINF:-1 tvg-name="新加坡" group-title="其他頻道",新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-name="新加坡中文" group-title="其他頻道",新加坡中文
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="新加坡亚太" group-title="其他頻道",新加坡亚太
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-# 文件更新時間：2025-11-11 15:36:05
-# 總頻道數：514 個頻道
+# 文件更新時間：2025-11-11 15:50:25
+# 總頻道數：518 個頻道
