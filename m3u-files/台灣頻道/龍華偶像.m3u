@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
-https://cdi.ofiii.com/ocean/video/playlist/xL8rTfHIXb4/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/HtSyKC0SjZw/litv-longturn12-avc1_736000=3-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
-https://cdi.ofiii.com/ocean/video/playlist/xL8rTfHIXb4/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
-# 更新時間：2025-11-16 23:47:04
+https://cdi.ofiii.com/ocean/video/playlist/HtSyKC0SjZw/master.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
+https://cdi.ofiii.com/ocean/video/playlist/HtSyKC0SjZw/litv-longturn12-avc1_336000=1-mp4a_128000=2.m3u8
+# 更新時間：2025-11-17 00:02:35
