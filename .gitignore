@@ -1,57 +1,15 @@
-# Python temporary files
+# Python 相關
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 *.log
 *.tmp
 
-# Virtual environment
+# 虛擬環境
 .venv/
 venv/
-env/
 
-# Selenium / Chrome
-chromedriver
-chromedriver.exe
-chromedriver_win32/
-chrome-data/
-seleniumwire/
-selenium-wire/
-seleniumwire-* 
-seleniumwire-storage/
-selenium-wire-storage/
-*.sqlite
+# 不要推到 GitHub 的資料夾
+backups/
+m3u-files/
 
-# Browser cache
-Default/
-Cache/
-Code Cache/
-*BrowserMetrics*
-*GPUCache*
-*DWriteFontCache*
-
-# OS junk
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# IDE folders
-.vscode/
-.idea/
-
-# Backup / temp
-*.bak
-*.old
-*.orig
-
-# Exclude large temp data
-tmp/
-temp/
-
-# Do NOT ignore m3u playlist files
-!m3u-files/
-!*.m3u
-
-# TWTV should be tracked
-!TWTV.m3u
+# 注意：TWTV.m3u 不要忽略，因為它要被推送
