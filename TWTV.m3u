@@ -1100,7 +1100,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 # ========== 自動更新台灣頻道 ==========
-# 更新時間: 2025-11-21 10:51:47
+# 更新時間: 2025-11-21 11:07:27
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (高清優先)
 https://cdi.ofiii.com/ocean/video/playlist/_nc48kp04YE/litv-longturn12-avc1_736000=3-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 (備用)
@@ -1172,32 +1172,28 @@ https://cdi.ofiii.com/ocean/video/playlist/EAiP4i6fMnw/litv-longturn12-avc1_7360
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像 [備用線路1]
 https://cdi.ofiii.com/ocean/video/playlist/EAiP4i6fMnw/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/2NqKiXGGLJM/litv-longturn18-avc1_336000=1-mp4a_132000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/Ydj7irWKs7E/litv-longturn18-avc1_736000=3-mp4a_132000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/2NqKiXGGLJM/litv-longturn18-avc1_736000=3-mp4a_132000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇 [備用線路2]
-https://cdi.ofiii.com/ocean/video/playlist/2NqKiXGGLJM/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/Ydj7irWKs7E/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/1q8UV4ze3uk/litv-longturn21-avc1_736000=3-mp4a_140000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/rx9fEZSpl8E/litv-longturn21-avc1_736000=3-mp4a_140000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/1q8UV4ze3uk/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/rx9fEZSpl8E/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/FMg2yvgBbFA/litv-longturn03-avc1_736000=3-mp4a_114000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/jWKlpNQOakw/litv-longturn03-avc1_736000=3-mp4a_114000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/FMg2yvgBbFA/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/jWKlpNQOakw/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影 [備用線路2]
+https://cdi.ofiii.com/ocean/video/playlist/jWKlpNQOakw/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/CE80NpYCkZM/litv-longturn01-avc1_736000=3-mp4a_132000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/Ixe5TrhUmic/litv-longturn01-avc1_736000=3-mp4a_132000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/CE80NpYCkZM/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/Ixe5TrhUmic/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/L-BfQ35eoZc/litv-longturn11-avc1_736000=3-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/VU29iA5sbfQ/litv-longturn11-avc1_736000=3-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/L-BfQ35eoZc/litv-longturn11-avc1_336000=1-mp4a_128000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩 [備用線路2]
-https://cdi.ofiii.com/ocean/video/playlist/L-BfQ35eoZc/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/VU29iA5sbfQ/master.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 [主線路]
-https://cdi.ofiii.com/ocean/video/playlist/LgwV3QTBu_k/litv-longturn02-avc1_600000=1-mp4a_128000=2.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/VUbi1TnBumA/litv-longturn02-avc1_736000=3-mp4a_128000=2.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 [備用線路1]
-https://cdi.ofiii.com/ocean/video/playlist/LgwV3QTBu_k/litv-longturn02-avc1_736000=3-mp4a_128000=2.m3u8
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片 [備用線路2]
-https://cdi.ofiii.com/ocean/video/playlist/LgwV3QTBu_k/master.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/VUbi1TnBumA/master.m3u8
