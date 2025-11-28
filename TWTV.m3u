@@ -537,6 +537,8 @@ https://stream1.freetv.fun/4b000a541e51690025326cffbf43d0e994a6327abaa0dc59b7902
 https://stream1.freetv.fun/feng-huang-dian-ying-3.m3u8
 #EXTINF:-1 group-title="电影频道",凤凰电影
 http://222.186.39.38:8000/882696/index.m3u8
+#EXTINF:-1 group-title="电影频道",湖南电影
+https://stream1.freetv.fun/hu-nan-dian-ying-15.m3u8
 
 
 #==================================================
@@ -1136,20 +1138,15 @@ https://live.catvod.com/live.php?id=aljazeera_twn&token=5017fd0890e2220172ba4619
 #EXTINF:-1 group-title="国际频道",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="国际频道",博杰普尔语电影
-https://stream1.freetv.fun/4a8544924dc705df6bfbcac575a9e39be873c6f887282d76be4c7dbb83c03006.m3u8
-#EXTINF:-1 group-title="国际频道",印度电视台
-https://stream1.freetv.fun/3837d237c0b2ff16557826f155778ed75e2ca51b666e6e077172a14781f30f33.m3u8
-#EXTINF:-1 group-title="国际频道",韩国农业
-https://stream1.freetv.fun/4cc14e0e36cb5efca880c20472469c285191f9ba4910f83f1011f2951b9ebfb6.m3u8
+https://stream1.freetv.fun/bhojpuri-cinema-1.m3u8
+#EXTINF:-1 group-title="国际频道",卡通频道
+https://stream1.freetv.fun/cartoon-network--tt-1.m3u8
 #EXTINF:-1 group-title="国际频道",QVC日本
 https://stream1.freetv.fun/d032c91298b4254e6f2f6e2b4b730057956fcb46f5447b28b78f8152737f733f.m3u8
 #EXTINF:-1 group-title="国际频道",NHK日本
 https://stream1.freetv.fun/9ea86e6b10e0c09b5700edb622c11af0ddb77782952a4c13f51664ecc22012ce.m3u8
 #EXTINF:-1 group-title="国际频道",b4u电影
-https://stream1.freetv.fun/64c0d1d12eee3a96b92ce1ba0e583f1f8939754eb029773aa1d7d909f514449e.m3u8
-#EXTINF:-1 group-title="国际频道",HBO热门剧集
-https://tzh911.qzz.io/play-smt.php?id=Hbohitshd
-
+https://stream1.freetv.fun/b4u-movies-1.m3u8
 
 
 # 自動更新頻道
@@ -1218,27 +1215,33 @@ https://tzh911.qzz.io/play-smt.php?id=Hbohitshd
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
-https://cdi.ofiii.com/ocean/video/playlist/8UQ1s_FlohU/master.m3u8
-# 更新時間：2025-11-28 22:03:05
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
-https://cdi.ofiii.com/ocean/video/playlist/HwFQm9NJkTw/master.m3u8
-# 更新時間：2025-11-28 22:04:30
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
-https://cdi.ofiii.com/ocean/video/playlist/36WRt4dsg0k/master.m3u8
-# 更新時間：2025-11-28 22:04:51
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
-https://cdi.ofiii.com/ocean/video/playlist/bSxGPoYLpOs/master.m3u8
-# 更新時間：2025-11-28 22:02:43
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/_jbly0Mso_g/master.m3u8
-# 更新時間：2025-11-28 22:04:08
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/MoX_Kg0pwJE/master.m3u8
-# 更新時間：2025-11-28 22:03:47
-#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/xa87tZAAsFQ/master.m3u8
-# 更新時間：2025-11-28 22:03:26
-# 更新時間：2025-11-28 22:04:56
 # 更新頻道：7 個
 # 保留頻道：538 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華偶像",龍華偶像
+https://cdi.ofiii.com/ocean/video/playlist/_6vS077_3sA/master.m3u8
+# 更新時間：2025-11-28 22:35:22
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華戲劇",龍華戲劇
+https://cdi.ofiii.com/ocean/video/playlist/mrEd1DQqEB4/master.m3u8
+# 更新時間：2025-11-28 22:36:50
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華經典",龍華經典
+https://cdi.ofiii.com/ocean/video/playlist/c2jofygDikM/master.m3u8
+# 更新時間：2025-11-28 22:37:12
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龍華電影",龍華電影
+https://cdi.ofiii.com/ocean/video/playlist/ztKx62HDTEc/master.m3u8
+# 更新時間：2025-11-28 22:35:01
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
+https://cdi.ofiii.com/ocean/video/playlist/UZ_hsVsFBV0/master.m3u8
+# 更新時間：2025-11-28 22:36:28
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
+https://cdi.ofiii.com/ocean/video/playlist/jfJUW9u-eEM/master.m3u8
+# 更新時間：2025-11-28 22:36:05
+#EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
+https://cdi.ofiii.com/ocean/video/playlist/Jh3Uc6erP_c/master.m3u8
+# 更新時間：2025-11-28 22:35:43
+# 更新時間：2025-11-28 22:37:17
+# 更新頻道：7 個
+# 保留頻道：537 個
