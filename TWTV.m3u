@@ -216,8 +216,10 @@ http://139.214.176.49:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=
 http://139.214.176.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN-国际电视台
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN-法语电视台
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+
 #========================================================
 # 卫视频道
 #========================================================
@@ -824,9 +826,9 @@ https://live.catvod.com/live.php?id=Xinhe&token=f71e10aedab488ff8c0760ec32526978
 https://live.catvod.com/live.php?id=Qiyi&token=86bc4fa20790c1e49724192dab72622ca486c158cecc694825202486ec5d8598%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="电影频道",经典电影台
 https://stream1.freetv.fun/461dff02648b75f2f7a2b5155b285bf90b7e8ba76cb095d52943266fb43cdc82.m3u8
-
 #EXTINF:-1 group-title="电影频道",台湾+
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
 #==================================================
 # 记录频道
 #==================================================
@@ -1421,13 +1423,13 @@ https://stream1.freetv.fun/502c25917cf00157b5bf9507f6c5a8e21a7c11e7e5e2832ad120f
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="国际頻道",Bollywood HD电影
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 group-title="电影频道",Cinema电影台
+#EXTINF:-1 group-title="国际頻道",Cinema电影台
 https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-#EXTINF:-1 group-title="电影频道",Moretime电影台
+#EXTINF:-1 group-title="国际頻道",Moretime电影台
 https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
-#EXTINF:-1 group-title="电影频道",Dunia Sinema电影台
+#EXTINF:-1 group-title="国际頻道",Dunia Sinema电影台
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 group-title="电影频道",Movies Action电影台
+#EXTINF:-1 group-title="国际頻道",Movies Action电影台
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #==================================================
 # 佛教頻道
@@ -1552,27 +1554,33 @@ https://cdi.ofiii.com/ocean/video/playlist/kJR8uV5zNps/master.m3u8
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：680 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
-https://cdi.ofiii.com/ocean/video/playlist/PQQ3LPBWW8Y/master.m3u8
-# 更新時間：2025-12-16 01:09:54
+https://cdi.ofiii.com/ocean/video/playlist/LXWQpBbdbqc/master.m3u8
+# 更新時間：2025-12-16 09:19:11
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/d1OU98zzVQ8/master.m3u8
-# 更新時間：2025-12-16 01:10:45
+https://cdi.ofiii.com/ocean/video/playlist/1Yva7bODCvM/master.m3u8
+# 更新時間：2025-12-16 09:20:13
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
-https://cdi.ofiii.com/ocean/video/playlist/n7ftkLH9kuY/master.m3u8
-# 更新時間：2025-12-16 01:11:02
+https://cdi.ofiii.com/ocean/video/playlist/cqPrfg0p4yw/master.m3u8
+# 更新時間：2025-12-16 09:20:34
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/7j69aNCRhCY/master.m3u8
-# 更新時間：2025-12-16 01:10:27
+https://cdi.ofiii.com/ocean/video/playlist/fvPvQgMi34w/master.m3u8
+# 更新時間：2025-12-16 09:19:53
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/ZCnxR8M8iwA/master.m3u8
-# 更新時間：2025-12-16 01:10:11
+https://cdi.ofiii.com/ocean/video/playlist/tu-9F25uxxY/master.m3u8
+# 更新時間：2025-12-16 09:19:32
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/jOsYgFMltxE/master.m3u8
-# 更新時間：2025-12-16 01:09:37
+https://cdi.ofiii.com/ocean/video/playlist/m2M_i-LMmFs/master.m3u8
+# 更新時間：2025-12-16 09:18:51
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/53Y0MkoadDo/master.m3u8
-# 更新時間：2025-12-16 01:11:19
-# 更新時間：2025-12-16 01:12:14
+https://cdi.ofiii.com/ocean/video/playlist/aI-Fxlpk3SM/master.m3u8
+# 更新時間：2025-12-16 09:20:54
+# 更新時間：2025-12-16 09:21:48
 # 更新頻道：7 個
 # 保留頻道：680 個
