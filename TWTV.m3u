@@ -103,13 +103,13 @@ http://139.214.176.49:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="央视频道",CCTV-武术世界
 http://139.214.176.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-name="CGTN-PyCCKИЙ" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNey.png" group-title="央视频道",CGTN-PyCCKИЙ
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNey.png" group-title="央视频道",CGTN俄语
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 
-#EXTINF:-1 tvg-name="CGTN-ESPANOL" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNxbyy.png" group-title="央视频道",CGTN-ESPANOL
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNxbyy.png" group-title="央视频道",CGTN西班牙语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
-#EXTINF:-1 tvg-name="CGTN-DOCUMENTARY" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNjilu.png" group-title="央视频道",CGTN-DOCUMENTARY
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CGTNjilu.png" group-title="央视频道",CGTN纪录
 https://stream1.freetv.fun/cgtn-documentary-7.ctv
 
 #========================================================
@@ -990,25 +990,25 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 # 四川频道
 #==================================================
 
-#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan3.png" group-title="四川频道",四川新闻
+#EXTINF:-1 tvg-name="四川新闻频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan3.png" group-title="四川频道",四川新闻频道
 http://175.153.237.76:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan1.png" group-title="四川频道",四川经济
+#EXTINF:-1 tvg-name="四川经济频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan1.png" group-title="四川频道",四川经济频道
 http://175.153.237.76:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan6.png" group-title="四川频道",四川乡村
+#EXTINF:-1 tvg-name="四川乡村频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan6.png" group-title="四川频道",四川乡村频道
 https://stream1.freetv.fun/046d46e40020d62fd27e2f7cd0da979ae9c2e0bb4ab943639c311649e1070484.m3u8
 
-#EXTINF:-1 tvg-name="四川影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan4.png" group-title="四川频道",四川影视
+#EXTINF:-1 tvg-name="四川影视文艺频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan4.png" group-title="四川频道",四川影视文艺频道
 http://175.153.237.76:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1 tvg-name="妇女儿童" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan5.png" group-title="四川频道",妇女儿童
+#EXTINF:-1 tvg-name="四川妇女儿童频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan5.png" group-title="四川频道",四川妇女儿童频道
 http://175.153.237.76:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",四川科教
+#EXTINF:-1 tvg-name="四川科教频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",四川科教频道
 https://stream1.freetv.fun/8483b24bf58895eb31069caffd4b7f60cd2f49f6be2825507262480da78bd7c3.m3u8
 
-#EXTINF:-1 tvg-name="文旅乡村" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",文旅乡村
+#EXTINF:-1 tvg-name="广安文旅乡村" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安文旅乡村
 http://live1.gatv.com.cn:85/live/GGPD.m3u8
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
@@ -1019,19 +1019,19 @@ https://stream1.freetv.fun/cda70b9681884f16d7cc456175576c97bbe04af91cff976d3f80b
 #EXTINF:-1 tvg-name="广安电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安电视台
 https://stream1.freetv.fun/2705391a23c467f141dab692c7286f0393ef2d87474660fc496b37d5f64a5237.m3u8
 
-#EXTINF:-1 tvg-name="CDTV-1" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu1.png" group-title="四川频道",CDTV-1
+#EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu1.png" group-title="四川频道",成都新闻综合
 
-#EXTINF:-1 tvg-name="CDTV-2" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu2.png" group-title="四川频道",CDTV-2
+#EXTINF:-1 tvg-name="成都经济资讯" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu2.png" group-title="四川频道",成都经济资讯
 
-#EXTINF:-1 tvg-name="CDTV-3" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu3.png" group-title="四川频道",CDTV-3
+#EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu3.png" group-title="四川频道",成都都市生活
 
-#EXTINF:-1 tvg-name="CDTV-4" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu4.png" group-title="四川频道",CDTV-4
+#EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu4.png" group-title="四川频道",成都影视文艺
 
-#EXTINF:-1 tvg-name="CDTV-5" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu5.png" group-title="四川频道",CDTV-5
+#EXTINF:-1 tvg-name="成都公共频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu5.png" group-title="四川频道",成都公共频道
 
-#EXTINF:-1 tvg-name="CDTV-6" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu6.png" group-title="四川频道",CDTV-6
+#EXTINF:-1 tvg-name="成都少儿频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu6.png" group-title="四川频道",成都少儿频道
 
-#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan5.png" group-title="四川频道",南充综合
+#EXTINF:-1 tvg-name=",四川南充综合频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan5.png" group-title="四川频道",四川南充综合频道
 https://stream1.freetv.fun/7bbd8543ec8061830ae82f130b4f66608a95b2400ba5fe2ae0a6c1be1e5f849a.m3u8
 
 
@@ -1836,27 +1836,33 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：677 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
-https://cdi.ofiii.com/ocean/video/playlist/in2Z2rai68I/master.m3u8
-# 更新時間：2025-12-17 15:47:27
+https://cdi.ofiii.com/ocean/video/playlist/MZqwFeKcPM0/master.m3u8
+# 更新時間：2025-12-17 15:58:17
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
 https://cdi.ofiii.com/ocean/video/playlist/cwIOPx6kQLA/master.m3u8
 # 更新時間：2025-12-17 15:48:31
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
-https://cdi.ofiii.com/ocean/video/playlist/eO0prh628gY/master.m3u8
-# 更新時間：2025-12-17 15:48:53
+https://cdi.ofiii.com/ocean/video/playlist/VOvw1mjjd64/master.m3u8
+# 更新時間：2025-12-17 16:00:26
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/cY78vSWcNCc/master.m3u8
-# 更新時間：2025-12-17 15:48:09
+https://cdi.ofiii.com/ocean/video/playlist/azuhnMNXTLU/master.m3u8
+# 更新時間：2025-12-17 15:59:03
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/KEjBVzpcBJI/master.m3u8
-# 更新時間：2025-12-17 15:47:48
+https://cdi.ofiii.com/ocean/video/playlist/1XfV_jdhsRY/master.m3u8
+# 更新時間：2025-12-17 15:58:39
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/iHo2AOTcof0/master.m3u8
-# 更新時間：2025-12-17 15:47:05
+https://cdi.ofiii.com/ocean/video/playlist/P2baRWpe4us/master.m3u8
+# 更新時間：2025-12-17 15:57:54
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/rIIb-0_YFIo/master.m3u8
-# 更新時間：2025-12-17 15:49:19
-# 更新時間：2025-12-17 15:50:13
+https://cdi.ofiii.com/ocean/video/playlist/JB6Qgf-JEMI/master.m3u8
+# 更新時間：2025-12-17 16:00:47
+# 更新時間：2025-12-17 16:01:42
 # 更新頻道：7 個
 # 保留頻道：677 個
