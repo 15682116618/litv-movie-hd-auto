@@ -19,7 +19,7 @@ https://live.catvod.com/iptv.php?id=huali02&token=5dd881d02a5323c8dfd2bba22925b5
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="香港频道",TVB明珠台
 https://live.catvod.com/iptv.php?id=mzt001&token=5839414fa3a2ae7efc3e6b6dd856873f8cec220ef3993650d2b6141a9bbb52cc%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-name="TVB翡翠北美台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB9.png" group-title="香港频道",TVB翡翠北美台
+#EXTINF:-1 tvg-name="TVB DRAMA" tvg-logo="https://live.fanmingming.com/tv/TVB DRAMA.png" group-title="香港频道",TVB DRAMA
 https://live.catvod.com/iptv.php?id=j1na001&token=cab33452dbdbbde5ef273379b7313d9ebbdd7b23b092ac75406daf0a5d93573f%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 #EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB4.png" group-title="香港频道",TVB无线新闻台
@@ -109,37 +109,49 @@ https://live.catvod.com/iptv.php?id=yzwx01&token=a6b48fd415455de73631b8d3731bd1a
 
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",翡翠台4K
 https://live.catvod.com/iptv.php?id=fct4k01&token=26d2c6c248db5d83bfb78b00edee53004e6fca68ef65308270542e8f1324b154%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",翡翠台（字幕）
+
+#EXTINF:-1 tvg-name="翡翠台（字幕）" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",翡翠台（字幕）
 https://live.catvod.com/iptv.php?id=fctsub&token=4b0c488907ea3cfe0f6347f0af8d94c8c163c9c753fbde6bcb21eafbcdaf3ad9%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="香港频道",明珠台（字幕）
+
+#EXTINF:-1 tvg-name="明珠台（字幕）" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="香港频道",明珠台（字幕）
 https://live.catvod.com/iptv.php?id=mztsub&token=8cff608441fcfed41a97a017b12c7defaf10167736a8bc7bc4782ec479cca474%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB13.png.png" group-title="香港频道",翡翠剧集台
+
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB13.png.png" group-title="香港频道",翡翠剧集台
 https://live.catvod.com/iptv.php?id=tvbd01&token=ac40bf745f0bae80f44d5f00534e94e81e9768bc8daa0538be36394ed1f44b51%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",明珠剧集台
+
+#EXTINF:-1 tvg-name="明珠剧集台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",明珠剧集台
 https://live.catvod.com/iptv.php?id=mzjjt&token=58a11047693ec7d0f11d8127ecaeb2f198e759eb8b2f633bf31dc3d58aaabe2f%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",第一财经
+
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/now2.png" group-title="香港频道",第一财经
 https://live.catvod.com/iptv.php?id=dycj01&token=1f5968a9c4e78c12e5207d60644e4425df8af56643735981385bf4a72c86a2be%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="韩国TVN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVNChannel.png" group-title="香港频道",韩国TVN
 https://tzh911.qzz.io/play-smt.php?id=TVN
 #EXTINF:-1 tvg-name="C+频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",C+频道
 https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
+
 #EXTINF:-1 tvg-name="华丽台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",华丽台
 https://live.catvod.com/live.php?id=Wlt&token=9b79873c1246c4ac063703262d154bd808a33334e060a577490e4287dd7a3110%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="欢喜台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",欢喜台
 https://live.catvod.com/live.php?id=Huahee&token=3e946655baa7e9ceab79aedd8ac37384b8a7b4c73caa2bb61d54fb258d8f0567%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",Astro QJ
 https://live.catvod.com/live.php?id=Quanjia&token=5336fc75cad1e8de4942d3e2f6cbceab9fb5b9d784ae1ef9200cf3794d34f3eb%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",TVB翡翠台
 https://live.catvod.com/live.php?id=Tvbjade&token=aaa499d878068b00a9297e07c2fbfe0c2b3b6771f25ec2092a01e541c4db16fb%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="TVB亚洲台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",TVB亚洲台
 https://live.catvod.com/live.php?id=Tvbasia&token=a361355a95494e52704696b6a553e35ea0640c7face860f4acef25e8ca26367b%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB1.png" group-title="香港频道",TVB娱乐新闻台
 https://live.catvod.com/live.php?id=Tvbentertainment&token=2e986936ff873621b6c0509e9dc05c1d6c3c9073c2f858cef1deb5518cb9aeb5%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.com/tv/千禧经典台.png" group-title="香港频道",千禧经典台
 https://live.catvod.com/live.php?id=Tvbclassic&token=06e7977fbce8be947ddf3a9fb384a6e2946ccb29d69a8e050bb134a51c82be9b%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="香港频道",TVB Plus
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVB Plus
 https://live.catvod.com/iptv.php?id=tvbplus2&token=1dde5177730210b8ccd42c628a8f3f05e6fe1a98ed9adf168f75d820b52cc2b6%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://live.fanmingming.com/tv/TVB1.png" group-title="香港频道",TVB1
@@ -161,101 +173,144 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="澳门频道",莲花卫视
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="澳门频道",莲花卫视
 https://live.catvod.com/iptv.php?id=amlh01&token=227fee38b036fca9a97c5c742ad804d758a42e56bf175779864368f82a62b24c%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="澳门频道",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
+
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://tvg.im/logo.php?name=澳视澳门"  group-title="澳门频道",澳视澳门
 https://live.catvod.com/iptv.php?id=asam01&token=122d1ce28180ee0e6440a221ad84ecb9facc8efc77bf1024ca55fb6a93b8b295%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="澳门频道",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi6.png" group-title="澳门频道",澳视综合
 https://live.catvod.com/iptv.php?id=asws01&token=68b52370d13c9b124157fdfe4ac722b27f2cac3cde0f0d3a5d85fc3e6b5e68f5%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi3.png" group-title="澳门频道",澳门体育
 https://live.catvod.com/iptv.php?id=amty01&token=6d44c7b2f36bef4eb8f5b12f8f3cd5a9968f29d3951e3725cf560928dd80e07f%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi5.png" group-title="澳门频道",澳门综艺
 https://live.catvod.com/iptv.php?id=amzy01&token=aa5123f4cc1bdf60f2c09c704f45d8f9ae1b6e6396a6b6af1a538cf70033dae8%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi4.png" group-title="澳门频道",澳门资讯
 https://stream1.freetv.fun/5c02735dff29e990e0e735400c8dbc02e9819b70c4c95a6a11278f7145a8caa3.m3u8
+
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Aoshi2.png"  group-title="澳门频道",澳視葡文
 https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w767334694.m3u8
+
+
 #==================================================
 # 央视频道
 #==================================================
 
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://139.214.176.49:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2-财经
+
 http://139.214.176.49:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV3-综艺
 http://139.214.176.49:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4-国际
 http://139.214.176.49:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5-体育
 http://139.214.176.49:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+体育赛事
 http://139.214.176.49:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png"  group-title="央视频道",CCTV6-电影
 http://139.214.176.49:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7-国防军事
 http://139.214.176.49:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8-电视剧
 http://139.214.176.49:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9-纪录
 http://139.214.176.49:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV10-科教
 http://139.214.176.49:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV11-戏曲
 http://139.214.176.49:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV12-社会与法
 http://139.214.176.49:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13-新闻
 http://139.214.176.49:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV14-少儿
 http://139.214.176.49:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15-音乐
 http://139.214.176.49:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://139.214.176.49:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17-农业农村
 http://139.214.176.49:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
 http://139.214.176.49:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",CCTV-第一剧场
 http://139.214.176.49:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",CCTV-风云剧场
 http://139.214.176.49:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="央视频道",CCTV-欢笑剧场
 https://stream1.freetv.fun/c26de373680830b38e7b3f0da2f920353f298e3369addfe68b8e4a2e3811a12b.m3u8
+
 #EXTINF:-1 tvg-name="梨园剧场" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/lypd.png" group-title="央视频道",CCTV-梨园剧场
 http://139.214.176.49:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视频道",CCTV-女性时尚
 http://139.214.176.49:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="地理世界" tvg-logo="https://live.fanmingming.com/tv/地理世界.png" group-title="央视频道",CCTV-地理世界
 http://139.214.176.49:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道",CCTV-风云音乐
 http://139.214.176.49:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="央视频道",CCTV-中国交通
 http://139.214.176.49:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视频道",CCTV-文化精品
 http://139.214.176.49:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="央视频道",CCTV-都市剧场
 http://139.214.176.49:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="央视频道",CCTV-法治天地
 http://139.214.176.49:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",CCTV-兵器科技
 http://139.214.176.49:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="央视频道",CCTV-武术世界
 http://139.214.176.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN-国际电视台
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN-法语电视台
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="卫视频道",CGTN
+https://stream1.freetv.fun/cgtn-documentary-7.ctv
 #========================================================
 # 卫视频道
 #========================================================
@@ -276,10 +331,12 @@ http://139.214.176.49:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=
 http://139.214.176.49:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
+
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="卫视频道",广东珠江
 https://live.catvod.com/iptv.php?id=gdzj01&token=ce7bddeaab8312712d1b26287a23e525817147395328880036569962411aafee%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="卫视频道",广东珠江
 https://live.catvod.com/live.php?id=zhujiang&token=462e1352161c7ef332c858f880c577ecc09a4e5745fc5febc70e6aef1d7acb49%3A1765423896%3AMTg1LjIyMC4yMzYuNA%3D%3D
+
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://139.214.176.49:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
@@ -288,8 +345,7 @@ http://139.214.176.49:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=
 http://139.214.176.49:9901/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://139.214.176.49:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="卫视频道",CGTN
-https://stream1.freetv.fun/cgtn-documentary-7.ctv
+
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://139.214.176.49:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -1573,27 +1629,33 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：678 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
-https://cdi.ofiii.com/ocean/video/playlist/wqauwXndHn0/master.m3u8
-# 更新時間：2025-12-17 12:03:19
+https://cdi.ofiii.com/ocean/video/playlist/XYQB8tkBLUo/master.m3u8
+# 更新時間：2025-12-17 12:59:28
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/MJ3f6um9eZQ/master.m3u8
-# 更新時間：2025-12-17 12:04:22
+https://cdi.ofiii.com/ocean/video/playlist/__QLUPbrklY/master.m3u8
+# 更新時間：2025-12-17 13:00:32
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
 https://cdi.ofiii.com/ocean/video/playlist/B4gWhyHDZZk/master.m3u8
 # 更新時間：2025-12-17 12:04:43
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/nlFSuP4n-5c/master.m3u8
-# 更新時間：2025-12-17 12:04:01
+https://cdi.ofiii.com/ocean/video/playlist/jdj27xdO6-A/master.m3u8
+# 更新時間：2025-12-17 13:00:11
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/76hOTV2oa1k/master.m3u8
-# 更新時間：2025-12-17 12:03:40
+https://cdi.ofiii.com/ocean/video/playlist/STtvxO1Qsig/master.m3u8
+# 更新時間：2025-12-17 12:59:50
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/Hs-uiAXygLQ/master.m3u8
-# 更新時間：2025-12-17 12:02:57
+https://cdi.ofiii.com/ocean/video/playlist/Dvo-ZHFtPDg/master.m3u8
+# 更新時間：2025-12-17 12:59:07
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/BwVYjzIoLPY/master.m3u8
-# 更新時間：2025-12-17 12:05:04
-# 更新時間：2025-12-17 12:05:59
+https://cdi.ofiii.com/ocean/video/playlist/d1i7ewAc3SI/master.m3u8
+# 更新時間：2025-12-17 13:01:41
+# 更新時間：2025-12-17 13:02:34
 # 更新頻道：7 個
 # 保留頻道：678 個
