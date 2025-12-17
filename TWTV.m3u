@@ -1008,17 +1008,6 @@ http://175.153.237.76:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",四川科教
 https://stream1.freetv.fun/8483b24bf58895eb31069caffd4b7f60cd2f49f6be2825507262480da78bd7c3.m3u8
 
-#EXTINF:-1 tvg-name="广安乡村" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安乡村
-http://live1.gatv.com.cn:85/live/GGPD.m3u8
-http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
-http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
-
-#EXTINF:-1 tvg-name="广安新闻综合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安新闻综合
-https://stream1.freetv.fun/cda70b9681884f16d7cc456175576c97bbe04af91cff976d3f80bef520349a7b.m3u8
-
-#EXTINF:-1 tvg-name="广安电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安电视台
-https://stream1.freetv.fun/2705391a23c467f141dab692c7286f0393ef2d87474660fc496b37d5f64a5237.m3u8
-
 #EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu1.png" group-title="四川频道",成都新闻综合
 
 #EXTINF:-1 tvg-name="成都经济资讯" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Chengdu2.png" group-title="四川频道",成都经济资讯
@@ -1034,6 +1023,16 @@ https://stream1.freetv.fun/2705391a23c467f141dab692c7286f0393ef2d87474660fc496b3
 #EXTINF:-1 tvg-name=",四川南充综合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan5.png" group-title="四川频道",四川南充综合
 https://stream1.freetv.fun/7bbd8543ec8061830ae82f130b4f66608a95b2400ba5fe2ae0a6c1be1e5f849a.m3u8
 
+#EXTINF:-1 tvg-name="广安乡村" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安乡村
+http://live1.gatv.com.cn:85/live/GGPD.m3u8
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+
+#EXTINF:-1 tvg-name="广安新闻综合" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安新闻综合
+https://stream1.freetv.fun/cda70b9681884f16d7cc456175576c97bbe04af91cff976d3f80bef520349a7b.m3u8
+
+#EXTINF:-1 tvg-name="广安电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Sichuan7.png" group-title="四川频道",广安电视台
+https://stream1.freetv.fun/2705391a23c467f141dab692c7286f0393ef2d87474660fc496b37d5f64a5237.m3u8
 
 #==================================================
 # 体育频道
@@ -1848,27 +1847,33 @@ https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m
 #==================================================
 # 台灣頻道 (自動更新)
 #==================================================
+# 更新頻道：7 個
+# 保留頻道：677 個
+
+#==================================================
+# 台灣頻道 (自動更新)
+#==================================================
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华偶像",龙华偶像
-https://cdi.ofiii.com/ocean/video/playlist/jsoP6E0GYng/master.m3u8
-# 更新時間：2025-12-17 16:10:12
+https://cdi.ofiii.com/ocean/video/playlist/QPYbqIpthOs/master.m3u8
+# 更新時間：2025-12-17 16:30:38
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华卡通",龙华卡通
-https://cdi.ofiii.com/ocean/video/playlist/dPU70f7r5wU/master.m3u8
-# 更新時間：2025-12-17 16:11:17
+https://cdi.ofiii.com/ocean/video/playlist/S0zFoOzv0g0/master.m3u8
+# 更新時間：2025-12-17 16:31:42
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华戏剧",龙华戏剧
-https://cdi.ofiii.com/ocean/video/playlist/6mzrRNeylz8/master.m3u8
-# 更新時間：2025-12-17 16:11:40
+https://cdi.ofiii.com/ocean/video/playlist/Pl2uJwqig_w/master.m3u8
+# 更新時間：2025-12-17 16:32:02
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华日韩",龙华日韩
-https://cdi.ofiii.com/ocean/video/playlist/NgrkBeOgi4Y/master.m3u8
-# 更新時間：2025-12-17 16:10:56
+https://cdi.ofiii.com/ocean/video/playlist/Pw2D9EyD6l0/master.m3u8
+# 更新時間：2025-12-17 16:31:20
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华洋片",龙华洋片
-https://cdi.ofiii.com/ocean/video/playlist/bHmIdybx0ks/master.m3u8
-# 更新時間：2025-12-17 16:10:33
+https://cdi.ofiii.com/ocean/video/playlist/Mg8ng3i4SIk/master.m3u8
+# 更新時間：2025-12-17 16:30:59
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华电影",龙华电影
-https://cdi.ofiii.com/ocean/video/playlist/U343KaOp6Rg/master.m3u8
-# 更新時間：2025-12-17 16:09:50
+https://cdi.ofiii.com/ocean/video/playlist/9Pcq636qAP4/master.m3u8
+# 更新時間：2025-12-17 16:30:16
 #EXTINF:-1 group-title="台灣頻道" tvg-name="龙华经典",龙华经典
-https://cdi.ofiii.com/ocean/video/playlist/668-OzVawhE/master.m3u8
-# 更新時間：2025-12-17 16:12:02
-# 更新時間：2025-12-17 16:12:57
+https://cdi.ofiii.com/ocean/video/playlist/G2ut9AoVMgI/master.m3u8
+# 更新時間：2025-12-17 16:32:24
+# 更新時間：2025-12-17 16:33:18
 # 更新頻道：7 個
 # 保留頻道：677 個
